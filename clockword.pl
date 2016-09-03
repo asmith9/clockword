@@ -5,10 +5,10 @@ use warnings;
 use vars qw($VERSION %IRSSI);
 $VERSION="0.0.1";
 %IRSSI = (
-	authors	=> 'Christian \'mordeth\' Weber',
-	contact	=> 'mordeth\@mac.com',
+	authors	=> 'dan',
+	contact	=> 'xeon826@gmail.com',
 	name	=> 'alame',
-	description	=> 'Converts towards lame speech',
+	description	=> 'Converts towards nadsat speech',
 	license	=> 'GPL v2',
 	url	=> 'http://',
 );
